@@ -1,0 +1,9 @@
+.jumbotron {
+  background: url("/assets/images/1.jpg") no-repeat center;
+  height:500px;
+}
+.btn-primary {
+  background-color: #FF7361;
+  border-color: white;
+}
+
